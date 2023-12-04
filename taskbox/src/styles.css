@@ -1,9 +1,3 @@
-
-.list-item.TASK_ARCHIVED input[type="text"] {
-  color: #4a5568;
-   text-decoration: line-through;
- }
-
 * {
   box-sizing: border-box;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
